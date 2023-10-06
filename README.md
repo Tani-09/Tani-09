@@ -11,7 +11,7 @@
 I'm at the beginning of my exploration into the extensive world of the IT industry.</p>
 
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/taniya-sawlani-aa26871b1/" target="blank"><img 
    src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png"
